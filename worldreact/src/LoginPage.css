@@ -1,0 +1,37 @@
+body {
+    background-color: rgb(158, 104, 38);
+    overflow-y: hidden
+}
+.login-form-div {
+    width: 95%;
+    position: absolute;
+    text-align: center;
+    direction: rtl;
+    top: 35%;
+    padding: 2.5%;
+}
+.login-form-input {
+    width: 50%;
+    direction: ltr;
+    height: 20px;
+    border-radius: 5px;
+    margin-top: 12px;
+    background-color: blanchedalmond;
+    border-color: blanchedalmond;
+}
+.login-form-note-span {
+    font-size: small;
+    color: white;
+}
+.login-form-button {
+    width: 35%;
+    background-color:orange;
+    border-width: 0;
+    border-radius: 5px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.login-form-span {
+    color: white;
+}
