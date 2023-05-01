@@ -1,6 +1,6 @@
 **3D web-based software for managing tasks and daily planning**
 
-** i call it Mofid App **
+**i call it Mofid App**
 
 The entire program (server side and client side) is open source on this page, which you can use to learn and practice JavaScript, express.js, babylonjs and react.js.
 
