@@ -4,11 +4,17 @@ In the next step, you need to create a reactjs project in this folder using npm 
 
 then you can run project in main project folder using :
 
-### npm start
+```
+cd path/to/worldreact
+npm start
+```
 
 you can export a build version of this using : 
 
-### npm run build
+```
+cd path/to/worldreact
+npm run build
+```
 
 then you can use your new changes in UI by copying build folder to server folder.
 
